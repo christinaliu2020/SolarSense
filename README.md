@@ -1,3 +1,5 @@
+<img width="1118" alt="Screen Shot 2023-03-05 at 2 07 27 AM" src="https://user-images.githubusercontent.com/86637931/222954116-1d0970eb-fcb5-48ba-8c48-da6ce820aa6e.png">
+
 # SolarSense: AI-driven solar energy optimizer
 
 Our project, SolarSense, is a machine learning model that predicts various solar indicators to optimize solar production by finding the most efficient places to utilize for solar energy. We trained a model to predict the global horizontal irradiance (GHI), the diffuse horizontal irradiance (DHI), and the direct normal irradiance (DNI) based on various environmental factors such as time, humidity, temperature, cloud covering, and the solar zenith angle. We visualized predictions for various locations on our custom interactive map and globe found here: https://www.google.com/maps/d/u/0/edit?mid=1Hlr7-YINhevdlAi4JVibfdtPNkffovE&usp=sharing
