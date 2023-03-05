@@ -11,7 +11,7 @@ Direct Normal Irradiance (DNI) measures the amount of solar radiation that hits 
 SolarSense greatly simplifies the process of determining the optimal location for solar panel placement. By automatically predicting the optimal heat environments for solar panels, the SolarSense model can help maximize renewable energy production and minimize waste. This will lead to increased efficiency and reduced costs for solar energy installations, improving sustainability on multiple fronts and fostering positive environmental change.
 
 # Feasibility
-SolarSense enables anyone to easily predict the potential effectiveness of solar cells in a given area at no cost. With the large amounts of available weather data and virtually no operational cost, SolarSense is a low-cost solution to an impactful sustainability issue. In addition to this, SolarSense can be easily maintained and scaled with new data by just training the model again.
+SolarSense enables anyone to easily predict the potential effectiveness of solar cells in a given area at no cost. With the large amounts of available weather data and virtually no operational cost, SolarSense is a low-cost solution to an impactful sustainability issue. In addition to this, SolarSense can be easily maintained and scaled with new data by just training the model again, allowing it to continue to facilitate efficient solar planning for the future.
 
 <img width="1152" alt="3d map" src="https://user-images.githubusercontent.com/86637931/222953579-26cb091c-fcd8-4370-9d90-9b3e434dc2c7.png">
 <img width="1236" alt="example datapoint" src="https://user-images.githubusercontent.com/86637931/222953583-469fa624-0157-4ae7-a4f3-d57be0741662.png">
